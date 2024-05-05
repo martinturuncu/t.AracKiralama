@@ -1,7 +1,7 @@
 Araç Kiralama Uygulaması
 Bu belge, PyQt6 kullanılarak geliştirilmiş basit bir araç kiralama uygulamasının dökümantasyonunu içerir. Bu uygulama, kullanıcıların araçları kiralayabileceği ve kiralık araçların takibini yapabileceği bir platform sağlar.
 
-İçindekiler
+-İçindekiler-
 Giriş
 Kullanıcı Girişi
 Araç Kiralama Sistemi
