@@ -31,5 +31,5 @@ Eğer kullanıcı "Evet" derse, tüm seçimler sıfırlanır ve kullanıcı tekr
 Eğer kullanıcı "Hayır" derse, uygulama kapatılır.
 Bu adımları takiben, kullanıcı kendi aracını seçip belirlediği tarih ve saatte kiralama işlemini gerçekleştirebilir. Uygulama her adımda kullanıcıya uygun geri bildirimler verir ve gerekli kontrolleri yapar.
 
-![Başka Bİr Kiralama?](images/a2.png)
+![Başka Bİr Kiralama?](images/a4.png)
 
