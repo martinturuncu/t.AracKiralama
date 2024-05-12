@@ -1,21 +1,24 @@
--Araç Kiralama Uygulaması-
+# Araç Kiralama Uygulaması
 
-Giriş Ekranı:
+## Giriş Ekranı:
 
 Uygulama başladığında, bir giriş ekranı görüntülenir. Bu ekranda bir kullanıcı adı ve şifre girmeniz istenir.
 Kullanıcı adı ve şifre doğru girildiğinde, "Giriş Yap" butonuna tıklanarak giriş yapılır.
-Araç Seçim Ekranı:
+
+## Araç Seçim Ekranı:
 
 Doğru kullanıcı adı ve şifre girildikten sonra, araç kiralama ekranı açılır.
 Bu ekranda kullanıcıya bir araç listesi, bir takvim ve bir saat seçme aracı sunulur.
-Araç Kiralama:
+
+## Araç Kiralama:
 
 Kullanıcı, listeden bir araç seçer.
 Ardından bir tarih ve saat seçer.
 "Kiralama Yap" butonuna tıkladığında, seçilen aracın seçilen tarih ve saatte kiralanabilirliği kontrol edilir.
 Eğer seçilen araç zaten kiralanmışsa, bir hata mesajı görüntülenir.
 Eğer araç müsaitse, kiralama işlemi gerçekleştirilir ve bir bilgilendirme mesajı görüntülenir.
-Tekrar Kiralama veya Çıkış:
+
+## Tekrar Kiralama veya Çıkış:
 
 Kullanıcıya başka bir kiralama yapmak isteyip istemediği sorulur.
 Eğer kullanıcı "Evet" derse, tüm seçimler sıfırlanır ve kullanıcı tekrar araç seçimi yapabilir.
