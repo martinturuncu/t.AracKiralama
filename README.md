@@ -4,6 +4,7 @@
 
 Uygulama başladığında, bir giriş ekranı görüntülenir. Bu ekranda bir kullanıcı adı ve şifre girmeniz istenir.
 Kullanıcı adı ve şifre doğru girildiğinde, "Giriş Yap" butonuna tıklanarak giriş yapılır.
+![Giriş Ekranı](https://imgur.com/A1Rm6ar)
 
 ## Araç Seçim Ekranı:
 
