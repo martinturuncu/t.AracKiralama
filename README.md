@@ -27,7 +27,7 @@ Eğer araç müsaitse, kiralama işlemi gerçekleştirilir ve bir bilgilendirme 
 ## Tekrar Kiralama veya Çıkış:
 
 Kullanıcıya başka bir kiralama yapmak isteyip istemediği sorulur.
-Eğer kullanıcı "Evet" derse, tüm seçimler sıfırlanır ve kullanıcı tekrar araç seçimi yapabilir.
+Eğer kullanıcı "Evet" derse, kullanıcı tekrar araç seçimi yapabilir.
 Eğer kullanıcı "Hayır" derse, uygulama kapatılır.
 Bu adımları takiben, kullanıcı kendi aracını seçip belirlediği tarih ve saatte kiralama işlemini gerçekleştirebilir. Uygulama her adımda kullanıcıya uygun geri bildirimler verir ve gerekli kontrolleri yapar.
 
